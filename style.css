@@ -106,6 +106,7 @@ nav a:hover {
   background-size: cover;
   background-position: center 20%;
   background-repeat: no-repeat;
+  opacity: 50%;
 }
 /* Dark overlay so text stays legible over the render */
 .hero-bg::after {
