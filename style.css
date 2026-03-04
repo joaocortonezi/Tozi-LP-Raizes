@@ -116,8 +116,8 @@ nav a:hover {
     linear-gradient(
       to top,
       rgba(10, 9, 7, 0.82) 0%,
-      rgba(10, 9, 7, 0.55) 55%,
-      rgba(10, 9, 7, 0.72) 100%
+      rgba(10, 9, 7, 0.55) 40%,
+      rgba(10, 9, 7, 0.72) 80%
     ),
     linear-gradient(to top, rgba(10, 9, 7, 0.7) 0%, transparent 60%);
 }
