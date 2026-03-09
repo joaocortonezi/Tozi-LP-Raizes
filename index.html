@@ -206,6 +206,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
             <button
               class="btn-submit"
               onclick="
+                gtag_report_conversion('https://raizes.toziimoveis.com.br/');
                 submitForm(
                   'h-nome',
                   'h-email',
@@ -213,7 +214,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
                   'h-int',
                   'hf-content',
                   'hf-success',
-                )
+                );
               "
             >
               Quero Informações Exclusivas
